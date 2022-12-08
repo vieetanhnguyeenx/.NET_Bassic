@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Study\\DotNet\\CS014\\CS014.csproj": {}
+    "D:\\FPT_Study\\DotNet\\.NET_Bassic\\CS014\\CS014.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Study\\DotNet\\CS014\\CS014.csproj": {
+    "D:\\FPT_Study\\DotNet\\.NET_Bassic\\CS014\\CS014.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Study\\DotNet\\CS014\\CS014.csproj",
+        "projectUniqueName": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\CS014\\CS014.csproj",
         "projectName": "CS014",
-        "projectPath": "D:\\FPT_Study\\DotNet\\CS014\\CS014.csproj",
+        "projectPath": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\CS014\\CS014.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Study\\DotNet\\CS014\\obj\\",
+        "outputPath": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\CS014\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
