@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\net6.0\CSharpHelloWorld.exe
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\net6.0\CSharpHelloWorld.deps.json
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\net6.0\CSharpHelloWorld.runtimeconfig.json
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\net6.0\CSharpHelloWorld.dll
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\net6.0\CSharpHelloWorld.pdb
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.AssemblyInfo.cs
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.dll
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\refint\CSharpHelloWorld.dll
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.pdb
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\CSharpHelloWorld.genruntimeconfig.cache
+D:\FPT_Study\DotNet\CSharpHelloWorld\CSharpHelloWorld\obj\Debug\net6.0\ref\CSharpHelloWorld.dll

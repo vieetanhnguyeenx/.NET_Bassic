@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\bin\Debug\net7.0\CSHelloWorld.exe
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\bin\Debug\net7.0\CSHelloWorld.deps.json
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\bin\Debug\net7.0\CSHelloWorld.runtimeconfig.json
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\bin\Debug\net7.0\CSHelloWorld.dll
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\bin\Debug\net7.0\CSHelloWorld.pdb
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.AssemblyInfo.cs
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.dll
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\refint\CSHelloWorld.dll
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.pdb
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\CSHelloWorld.genruntimeconfig.cache
+D:\FPT_Study\DotNet\CSHelloWorld\CSHelloWorld\obj\Debug\net7.0\ref\CSHelloWorld.dll

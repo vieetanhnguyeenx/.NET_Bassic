@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\CS010\bin\Debug\net7.0\CS010.exe
+D:\FPT_Study\DotNet\CS010\bin\Debug\net7.0\CS010.deps.json
+D:\FPT_Study\DotNet\CS010\bin\Debug\net7.0\CS010.runtimeconfig.json
+D:\FPT_Study\DotNet\CS010\bin\Debug\net7.0\CS010.dll
+D:\FPT_Study\DotNet\CS010\bin\Debug\net7.0\CS010.pdb
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.AssemblyInfo.cs
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.dll
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\refint\CS010.dll
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.pdb
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\CS010.genruntimeconfig.cache
+D:\FPT_Study\DotNet\CS010\obj\Debug\net7.0\ref\CS010.dll

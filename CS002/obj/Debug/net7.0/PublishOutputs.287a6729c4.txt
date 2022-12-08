@@ -1,0 +1,5 @@
+D:\FPT_Study\DotNet\CS002\bin\Debug\net7.0\publish\CS002.exe
+D:\FPT_Study\DotNet\CS002\bin\Debug\net7.0\publish\CS002.dll
+D:\FPT_Study\DotNet\CS002\bin\Debug\net7.0\publish\CS002.deps.json
+D:\FPT_Study\DotNet\CS002\bin\Debug\net7.0\publish\CS002.runtimeconfig.json
+D:\FPT_Study\DotNet\CS002\bin\Debug\net7.0\publish\CS002.pdb
