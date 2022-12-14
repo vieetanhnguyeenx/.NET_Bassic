@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\bin\Debug\net7.0\EX3.exe
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\bin\Debug\net7.0\EX3.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\bin\Debug\net7.0\EX3.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\bin\Debug\net7.0\EX3.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\bin\Debug\net7.0\EX3.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\refint\EX3.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\EX3.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX3\obj\Debug\net7.0\ref\EX3.dll
