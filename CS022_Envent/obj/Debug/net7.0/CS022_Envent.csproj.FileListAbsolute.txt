@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\bin\Debug\net7.0\CS022_Envent.exe
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\bin\Debug\net7.0\CS022_Envent.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\bin\Debug\net7.0\CS022_Envent.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\bin\Debug\net7.0\CS022_Envent.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\bin\Debug\net7.0\CS022_Envent.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\refint\CS022_Envent.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\CS022_Envent.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent\obj\Debug\net7.0\ref\CS022_Envent.dll

@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\bin\Debug\net7.0\EX2.exe
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\bin\Debug\net7.0\EX2.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\bin\Debug\net7.0\EX2.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\bin\Debug\net7.0\EX2.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\bin\Debug\net7.0\EX2.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\refint\EX2.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\EX2.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX2\obj\Debug\net7.0\ref\EX2.dll
