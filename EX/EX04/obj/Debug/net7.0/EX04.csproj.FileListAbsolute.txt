@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\bin\Debug\net7.0\EX04.exe
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\bin\Debug\net7.0\EX04.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\bin\Debug\net7.0\EX04.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\bin\Debug\net7.0\EX04.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\bin\Debug\net7.0\EX04.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\refint\EX04.dll
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\EX04.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\EX\EX04\obj\Debug\net7.0\ref\EX04.dll
