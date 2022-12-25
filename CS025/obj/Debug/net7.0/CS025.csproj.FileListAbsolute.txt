@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\bin\Debug\net7.0\CS025.exe
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\bin\Debug\net7.0\CS025.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\bin\Debug\net7.0\CS025.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\bin\Debug\net7.0\CS025.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\bin\Debug\net7.0\CS025.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\refint\CS025.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\CS025.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS025\obj\Debug\net7.0\ref\CS025.dll

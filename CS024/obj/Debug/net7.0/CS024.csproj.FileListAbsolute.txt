@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\bin\Debug\net7.0\CS024.exe
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\bin\Debug\net7.0\CS024.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\bin\Debug\net7.0\CS024.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\bin\Debug\net7.0\CS024.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\bin\Debug\net7.0\CS024.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\refint\CS024.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\CS024.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS024\obj\Debug\net7.0\ref\CS024.dll
