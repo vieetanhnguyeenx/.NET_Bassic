@@ -49,7 +49,10 @@ namespace CS029
             //return t2;
         }
 
-
+        class Student
+        {
+            private int id { set; get; }
+        }
 
         static async Task Task3()
         {
@@ -185,6 +188,8 @@ namespace CS029
             Console.WriteLine(s5);
             Console.WriteLine("Press Any Key");
             Console.ReadKey();
+            Student s = new Student();
+
         }
     }
 }
