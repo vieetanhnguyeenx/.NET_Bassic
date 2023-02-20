@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\bin\Debug\net6.0\CS022_Envent_RE.exe
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\bin\Debug\net6.0\CS022_Envent_RE.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\bin\Debug\net6.0\CS022_Envent_RE.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\bin\Debug\net6.0\CS022_Envent_RE.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\bin\Debug\net6.0\CS022_Envent_RE.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\refint\CS022_Envent_RE.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\CS022_Envent_RE.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS022_Envent_RE\CS022_Envent_RE\obj\Debug\net6.0\ref\CS022_Envent_RE.dll

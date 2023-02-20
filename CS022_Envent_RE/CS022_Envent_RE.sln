@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS022_Envent_RE", "CS022_Envent_RE\CS022_Envent_RE.csproj", "{50046C95-A5FA-4FAA-8F41-4686B0DC7827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50046C95-A5FA-4FAA-8F41-4686B0DC7827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50046C95-A5FA-4FAA-8F41-4686B0DC7827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50046C95-A5FA-4FAA-8F41-4686B0DC7827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50046C95-A5FA-4FAA-8F41-4686B0DC7827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3603E787-DD5F-4FFF-BBA1-7A6F4523D597}
+	EndGlobalSection
+EndGlobal

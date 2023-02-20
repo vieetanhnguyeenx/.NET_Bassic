@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\bin\Debug\net6.0\CS030.exe
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\bin\Debug\net6.0\CS030.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\bin\Debug\net6.0\CS030.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\bin\Debug\net6.0\CS030.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\bin\Debug\net6.0\CS030.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\refint\CS030.dll
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\CS030.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\CS030\CS030\obj\Debug\net6.0\ref\CS030.dll
