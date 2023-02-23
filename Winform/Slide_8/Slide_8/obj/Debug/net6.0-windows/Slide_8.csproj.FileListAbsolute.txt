@@ -1,0 +1,17 @@
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\bin\Debug\net6.0-windows\Slide_8.exe
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\bin\Debug\net6.0-windows\Slide_8.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\bin\Debug\net6.0-windows\Slide_8.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\bin\Debug\net6.0-windows\Slide_8.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\bin\Debug\net6.0-windows\Slide_8.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.Form1.resources
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.csproj.GenerateResource.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\refint\Slide_8.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\Slide_8.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Slide_8\Slide_8\obj\Debug\net6.0-windows\ref\Slide_8.dll
