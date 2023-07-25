@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.exe
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.dll
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.dll
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\TryCatch\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll

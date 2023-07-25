@@ -1,0 +1,15 @@
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\bin\Debug\net6.0\List_Linq.exe
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\bin\Debug\net6.0\List_Linq.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\bin\Debug\net6.0\List_Linq.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\bin\Debug\net6.0\List_Linq.dll
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\bin\Debug\net6.0\List_Linq.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.dll
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\refint\List_Linq.dll
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\List_Linq.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\List_Linq\List_Linq\obj\Debug\net6.0\ref\List_Linq.dll

@@ -1,0 +1,17 @@
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.exe
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.Form1.resources
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.csproj.GenerateResource.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\refint\DataGridView.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\DataGridView\DataGridView\obj\Debug\net6.0-windows\ref\DataGridView.dll

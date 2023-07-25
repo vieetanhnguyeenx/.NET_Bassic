@@ -1,0 +1,17 @@
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\bin\Debug\net6.0-windows\Linq.exe
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\bin\Debug\net6.0-windows\Linq.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\bin\Debug\net6.0-windows\Linq.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\bin\Debug\net6.0-windows\Linq.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\bin\Debug\net6.0-windows\Linq.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.Form1.resources
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.csproj.GenerateResource.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\refint\Linq.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\Linq.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Linq\Linq\obj\Debug\net6.0-windows\ref\Linq.dll

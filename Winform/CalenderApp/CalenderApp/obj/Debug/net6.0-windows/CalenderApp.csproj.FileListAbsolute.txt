@@ -1,0 +1,17 @@
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\bin\Debug\net6.0-windows\CalenderApp.exe
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\bin\Debug\net6.0-windows\CalenderApp.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\bin\Debug\net6.0-windows\CalenderApp.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\bin\Debug\net6.0-windows\CalenderApp.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\bin\Debug\net6.0-windows\CalenderApp.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.Form1.resources
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.csproj.GenerateResource.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\refint\CalenderApp.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\CalenderApp.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\CalenderApp\CalenderApp\obj\Debug\net6.0-windows\ref\CalenderApp.dll

@@ -1,0 +1,17 @@
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\bin\Debug\net6.0-windows\Connect to database.exe
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\bin\Debug\net6.0-windows\Connect to database.deps.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\bin\Debug\net6.0-windows\Connect to database.runtimeconfig.json
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\bin\Debug\net6.0-windows\Connect to database.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\bin\Debug\net6.0-windows\Connect to database.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.csproj.AssemblyReference.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect_to_database.Form1.resources
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.csproj.GenerateResource.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.AssemblyInfoInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.AssemblyInfo.cs
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.csproj.CoreCompileInputs.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\refint\Connect to database.dll
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.pdb
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\Connect to database.genruntimeconfig.cache
+D:\FPT_Study\DotNet\.NET_Bassic\Winform\Connect to database\Connect to database\obj\Debug\net6.0-windows\ref\Connect to database.dll
